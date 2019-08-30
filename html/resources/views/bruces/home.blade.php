@@ -19,7 +19,7 @@
         </section>
 
         <section class="content-section types-of-installs">
-            <h3>Types Of Installations (Home & Commercial/Business)</h3>
+            <h3>Home & Commercial/Business Installations</h3>
             <ul>
                 <li>TV Mounting</li>
                 <li>A/V Cable Installation & Concealment/Wall Fishing</li>
